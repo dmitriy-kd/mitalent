@@ -1,0 +1,627 @@
+@media screen and (max-width: 1280px) {
+	html {
+		font-size: 15px;
+	}
+
+	.main {
+		/*color: red;*/
+	}
+
+	.menu {
+		width: 70%;
+	}
+
+	.headline {
+		width: 55%;
+	}
+
+	.rectangle1 {
+
+	  width: 300px;
+
+	}
+	.rectangle2 {
+
+	  width: 464px;
+
+	}
+
+	.rectangle3 {
+
+	  width: 392px;
+
+	}
+
+	.rectangle4 {
+
+	  width: 244px;
+
+	}
+
+	.send-form a {
+		width: 50%;
+	}
+
+	.contact-info-form form a {
+		width: 60%;
+	}
+
+	.eye {
+		top: 6.5em;
+		left: 7.5em;
+	}
+
+	.send-form form input[type="text"] {
+		font-size: 16px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.main {
+		/*color: blue;*/
+	}
+
+	.menu {
+		width: 85%;
+	}
+
+	.rectangle1 {
+
+	  width: 280px;
+
+	}
+	.rectangle2 {
+
+	  width: 350px;
+
+	}
+
+	.rectangle3 {
+
+	  width: 310px;
+
+	}
+
+	.rectangle4 {
+
+	  width: 200px;
+
+	}
+
+	.send-form a {
+		width: 70%;
+	}
+
+	.contact-info-form form a {
+		width: 70%;
+	}
+
+	.home-menu ul li {
+		margin-left: 2em;
+	}
+
+	.eye {
+		font-size: 11px;
+	}
+
+	.send-form form {
+		width: 80%;
+	}
+}
+
+@media screen and (max-width: 800px) {
+	.main {
+		/*color: gray;*/
+	}
+
+	.contact-info-form form a {
+		width: 80%;
+	}
+
+	.eye {
+		font-size: 10px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	
+	html {
+		font-size: 14px;
+	}
+
+	.main {
+		/*color: brown;*/
+	}
+
+	.menu {
+		width: 100%;
+	}
+
+	.rectangle1 {
+
+	  width: 200px;
+
+	}
+	.rectangle2 {
+
+	  width: 260px;
+
+	}
+
+	.rectangle3 {
+
+	  width: 230px;
+
+	}
+
+	.rectangle4 {
+
+	  width: 150px;
+
+	}
+
+	.properties-item {
+		margin-left: 15px;
+	}
+
+	.properties-text {
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+
+	.send-form a {
+		width: 70%;
+	}
+
+	.contact-info-form form a {
+		width: 100%;
+	}
+
+	.home-menu ul li {
+		margin-left: 1em;
+	}
+
+	.eye {
+		font-size: 8px;
+	}
+
+}
+
+@media screen and (max-width: 640px) {
+	.main {
+		/*color: green;*/
+	}
+
+	.menu {
+		width: 100%;
+	}
+
+	.menu ul {
+		justify-content: flex-end;
+	}
+
+	.menu ul li {
+		margin-right: 1em;
+	}
+
+	.nty {
+		display: none;
+		margin: 0;
+	}
+
+	.skills-column {
+		height: 400px;
+	}
+
+	.skills-column h2, .skills-item p {
+		margin-left: 20px;
+	}
+
+	.rectangle1 {
+
+	  width: 160px;
+
+	}
+	.rectangle2 {
+	  margin-left: 20px;
+	  width: 230px;
+
+	}
+
+	.rectangle3 {
+
+	  width: 200px;
+
+	}
+
+	.rectangle4 {
+
+	  width: 140px;
+
+	}
+
+	.properties-item {
+		margin-left: 10px;
+	}
+
+	.properties-text {
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+	.send-form a {
+		width: 70%;
+	}
+
+	.home-menu ul li {
+		margin-left: 1em;
+	}
+
+	.eye {
+		font-size: 7px;
+	}
+
+	#icons {
+		display: grid;
+		grid-template-rows: 1fr 1fr 1fr;
+		grid-template-columns: repeat(3, 1fr);
+		padding-right: 3em;
+	}
+
+	.send-form form {
+		width: 85%;
+	}
+
+	.home-header {
+		padding: 2em 4em;
+	}
+
+	.about-about {
+		margin-top: 0em;
+		margin-bottom: 0em;
+		margin-left: 1em;
+		width: 100%;
+	}
+
+	.navigation img {
+		display: none;
+	}
+
+	.footer {
+		display: grid;
+		grid-template-rows: 1fr 1fr 1fr;
+		grid-template-columns: repeat(3, 1fr);
+	}
+
+	.send-form form input[type="text"] {
+		font-size: 14px;
+	}
+
+}
+
+@media screen and (max-width: 560px) {
+
+	html {
+		font-size: 13px;
+	}
+
+	.main {
+		/*color: yellow;*/
+	}
+
+	.headline a {
+		padding: 15px 30px;
+	}
+
+	.rectangle1 {
+
+	  width: 150px;
+
+	}
+	.rectangle2 {
+
+	  width: 190px;
+
+	}
+
+	.rectangle3 {
+
+	  width: 170px;
+
+	}
+
+	.rectangle4 {
+
+	  width: 130px;
+
+	}
+
+	.properties-item img {
+		width: 2em;
+		height: auto;
+	}
+
+	.eye {
+		font-size: 6px;
+		width: 30px;
+	}
+
+	.properties-item {
+		margin-left: 5px;
+	}
+
+	.properties-text {
+		margin-left: 5px;
+		margin-right: 5px;
+	}
+
+	.send-form form {
+		width: 95%;
+	}
+
+	.home-header {
+		padding: 1em 2em;
+	}
+
+	.home-menu ul li {
+		margin-left: 0.5em;
+	}
+
+	.skills-column {
+		height: 300px;
+	}
+
+	.about-about {
+		font-size: 11px;
+	}
+
+	.about-about img {
+		width: 30%;
+	}
+
+	.contact-info {
+		display: grid;
+		grid-template-rows: 1fr 1fr;
+		grid-template-columns: 1fr;
+	}
+
+	.contact-info-item {
+		padding: 3em 1em;
+	}
+
+	.navigation {
+		padding: 2em 4em;
+	}
+
+	.send-form form input[type="text"] {
+		font-size: 13px;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	
+	html {
+		font-size: 12px;
+	}
+
+	.main {
+		/*color: #FF00AE;*/
+		min-height: 70vh;
+		height: 70vh;
+	}
+
+	.rectangle1 {
+
+	  width: 120px;
+
+	}
+	.rectangle2 {
+
+	  width: 165px;
+
+	}
+
+	.rectangle3 {
+
+	  width: 145px;
+
+	}
+
+	.rectangle4 {
+
+	  width: 100px;
+
+	}
+
+	.eye {
+		width: 25px;
+		font-size: 5px;
+	}
+
+	.send-form form {
+		width: 100%;
+	}
+
+	.send-form a {
+		width: 85%;
+		padding: 15px 25px;;
+	}
+
+	.home-menu ul li {
+		margin-left: 0.3em;
+	}
+
+	.about-about {
+		font-size: 10px;
+	}
+
+	.send-form form input[type="text"] {
+		font-size: 12px;
+	}
+
+	#properties1 {
+		padding-top: 3em;
+		padding-bottom: 3em;
+	}
+
+	.send-form form {
+		width: 95%;
+	}
+}
+
+@media screen and (max-width: 414px) {
+
+	html {
+		font-size: 10px;
+	}
+
+	.main {
+		/*color: #3AE2CE;*/
+		height: 50vh;
+	}
+
+	.headline a {
+		padding: 10px 20px;
+	}
+
+	.skills-column {
+		height: 200px;
+	}
+
+	.rectangle1 {
+
+	  width: 105px;
+
+	}
+	.rectangle2 {
+
+	  width: 140px;
+
+	}
+
+	.rectangle3 {
+
+	  width: 125px;
+
+	}
+
+	.rectangle4 {
+
+	  width: 90px;
+
+	}
+
+	.eye {
+		font-size: 4px;
+		width: 20px;
+	}
+
+	.home-header {
+		padding: 1em 3em;
+	}
+
+	.about-about {
+		font-size: 9px;
+	}
+
+	.send-form form input[type="text"] {
+		font-size: 11px;
+	}
+
+	.about-project {
+		font-size: 8px;
+	}
+
+	.send-form form {
+		width: 100%;
+	}
+
+	.send-form a {
+		padding: 10px 15px;
+	}
+
+}
+
+@media screen and (max-width: 360px) {
+	
+	html {
+		font-size: 9px;
+	}
+
+	.main {
+		/*color: #6900E2;*/
+		min-height: 60vh;
+		height: 60vh;
+	}
+
+	.menu {
+		padding-right: 1.5em;
+	}
+
+	.rectangle1 {
+
+	  width: 85px;
+
+	}
+	.rectangle2 {
+
+	  width: 110px;
+
+	}
+
+	.rectangle3 {
+
+	  width: 100px;
+
+	}
+
+	.rectangle4 {
+
+	  width: 70px;
+
+	}
+
+	.properties-item img {
+		width: 1.5em;
+	}
+
+	.eye {
+		font-size: 4px;
+		width: 15px;
+	}
+
+	.send-form form input[type="text"] {
+		font-size: 10px;
+	}
+
+	.about-about img {
+		width: 20%;
+	}
+
+	.home-header {
+		flex-wrap: wrap;
+		justify-content: center;
+		margin: 0;
+		padding: 0;
+	}
+
+	.home-menu {
+		justify-content: center;
+		margin: 0;
+		padding: 0;
+	}
+
+	.home-menu ul {
+		margin: 0;
+		padding: 0;
+	}
+
+	.send-form a {
+		padding: 10px 10px;
+	}
+
+	.about-project {
+		font-size: 7px;
+	}
+
+}
